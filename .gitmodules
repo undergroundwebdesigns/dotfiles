@@ -52,3 +52,6 @@
 [submodule "home/.tmux/plugins/tmux-safekill"]
 	path = home/.tmux/plugins/tmux-safekill
 	url = https://github.com/jlipps/tmux-safekill
+[submodule "home/.tmux/plugins/tpm"]
+	path = home/.tmux/plugins/tpm
+	url = https://github.com/tmux-plugins/tpm
