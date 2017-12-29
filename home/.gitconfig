@@ -1,0 +1,5 @@
+[user]
+	email = alexw@smile.io
+	name = Alex Willemsma
+[diff]
+	tool = vimdiff
