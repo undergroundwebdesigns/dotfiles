@@ -1,4 +1,4 @@
-export CODE_PATH="/Users/smile/Code"
+export CODE_PATH="${HOME}/Code"
 export EDITOR="/usr/bin/vim"
 
 alias fr="foreman run"
@@ -16,7 +16,7 @@ if [ -f "${HOME}/.gpg-agent-info" ]; then
 fi
 
 # Path to the bash it configuration
-export BASH_IT="/Users/smile/.bash_it"
+export BASH_IT="${HOME}/.bash_it"
 
 # Lock and Load a custom theme file
 # location /.bash_it/themes/

@@ -1,0 +1,5 @@
+# Dotfiles
+
+This file contains my dotfiles formatted for use with [homesick](https://github.com/technicalpickles/homesick).
+
+It includes bash_it as a sub-module, and `.vim` and `.tmux` folders with plugins & addons for vim and tmux respectively.
